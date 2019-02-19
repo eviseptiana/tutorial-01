@@ -1,2 +1,3 @@
 NPM 	: 1706106715 
 Nama 	: Evi Septiana
+Jurusan	: Sistem Informasi
